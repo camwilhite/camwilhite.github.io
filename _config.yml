@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "/images/DSC08595-small.jpg"
   name             : #
-  bio              : "neuroscience phd student"
-  employer         : "UCSF"
+  bio              : "neuroscience phd student<br>UCSF"
+  employer         : #
   email            : "camwilhite@gmail.com" 
 
   # Academic websites
