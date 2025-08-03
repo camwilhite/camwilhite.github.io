@@ -22,7 +22,7 @@ repository               : "camwilhite/camwilhite.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/DSC08595-Edit.jpg"
+  avatar           : "/images/DSC08595-small.jpg"
   name             : #
   bio              : "neuroscience phd student"
   employer         : "ucsf"
