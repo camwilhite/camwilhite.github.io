@@ -23,7 +23,7 @@ repository               : "camwilhite/camwilhite.github.io"
 author:
   # Biographic information
   avatar           : "/images/DSC08595-small.jpg"
-  location:        : "san francisco, CA"
+  location         : "san francisco, CA"
   name             : #
   bio              : "neuroscience phd student<br>UCSF"
   employer         : #
