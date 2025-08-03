@@ -35,11 +35,11 @@
       {% endif %}
 
       {% if author.academia %}
-        <li><a href="{{ author.academia }}"><i class="fas fa-brain fa-fw icon-pad-right" aria-hidden="true"></i>scanziani lab</a></li>
+        <li><a href="{{ author.academia }}" target="_blank"><i class="fas fa-brain fa-fw icon-pad-right" aria-hidden="true"></i>scanziani lab</a></li>
       {% endif %}
       
       {% if author.twitter %}
-        <li><a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X/Twitter</a></li>
+        <li><a href="https://x.com/{{ author.twitter }}" target="_blank"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X/Twitter</a></li>
       {% endif %}
       
       {% if author.email %}
@@ -47,9 +47,6 @@
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
-      {% if author.academia %}
-        <li><a href="{{ author.academia }}"><i class="fas fa-brain fa-fw icon-pad-right" aria-hidden="true"></i>scanziani lab</a></li>
-      {% endif %}
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
