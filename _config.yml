@@ -25,11 +25,11 @@ author:
   avatar           : "/images/DSC08595-small.jpg"
   name             : #
   bio              : "neuroscience phd student"
-  employer         : "ucsf"
+  employer         : "UCSF"
   email            : "camwilhite@gmail.com" 
 
   # Academic websites
-  scanziani lab    : https://scanzianilab.ucsf.edu/
+  scanziani lab    : "https://scanzianilab.ucsf.edu/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   inspire-hep      : # URL
