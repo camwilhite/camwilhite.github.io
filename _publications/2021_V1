@@ -1,0 +1,13 @@
+---
+title: "Poor spatial representation in primary visual cortex in the absence of visual input"
+collection: publications
+category: conferences
+permalink: /publication/2021_V1
+excerpt: 'Cameron Wilhite, Yuta Senzai, Massimo Scanziani'
+date: 2021-11-11
+venue: 'Society for Neuroscience Meeting'
+paperurl: 
+citation: 
+---
+
+Abstract: Recent studies using virtual reality have shown that neuronal responses in primary visual cortex (V1) are modulated by spatial location. It is unknown, however, whether these signals reflect a higher-order spatial code that can be maintained by self-motion or other sensory cues in the absence of vision. To explore this question, we recorded V1 units in freely moving mice on a linear track in various levels of ambient luminance, including pitch darkness. Prior to recording, mice were adequately familiarized on the track in both light-on and pitch-dark conditions. Many cells in V1 maintain consistent spatial modulation across a wide range of luminance levels. In pitch darkness, however, overall spatial information in V1 is reduced and the locations of peak firing fields remap across the entire length of the track. Furthermore, units in V1 that are significantly modulated by spatial location in pitch darkness tend to have peak firing fields at the edges of the track, resulting in reduced spatial coverage compared to light-on conditions. These data indicate that even in familiar environments, spatial representation in V1 cannot be maintained by self-motion or other sensory cues in the absence of visual input. 
