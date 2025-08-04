@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-How does the brain weave together action and thought?
+Action and thought are deeply intertwined. How does the brain weave them together?
 
 I'm a graduate student in the Scanziani lab at UCSF, where I study how the midbrain superior colliculus (SC) helps coordinate spatial movement. I'm particularly interested in how the SC encodes orienting movements during navigation and how this activity is shaped by ongoing cognitive representations of space. My research combines animal behavior, neural recordings, and computational analysis.
 
