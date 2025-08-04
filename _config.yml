@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "san francisco, ca"
+locale                   : "San Francisco, CA"
 site_theme               : "default"
-title                    : "cameron wilhite"
+title                    : "Cameron Wilhite"
 title_separator          : "-"
 name                     : &name "cameron"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "camwilhite/camwilhite.github.io"
 author:
   # Biographic information
   avatar           : "profile-small.jpg"
-  location         : "san francisco, ca"
+  location         : "San Francisco, CA"
   name             : #
-  bio              : "PhD student, neuroscience<br>UCSF"
+  bio              : "PhD student, Neuroscience<br>UCSF"
   employer         : #
   email            : "camwilhite@gmail.com" 
 
@@ -79,9 +79,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'papers'    
+    title: 'Papers'    
   conferences:
-    title: 'abstracts'
+    title: 'Conference abstracts'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
