@@ -13,4 +13,4 @@ I'm a neuroscience PhD student in the Scanziani lab at UCSF, where I study how t
 
 Before UCSF, I earned my master's degree at the University of Arizona, where I helped develop new techniques for mapping electrical activity in the brain and heart.
 
-More broadly, I'm interested in how brains and artificial networks generate, organize, and act upon simulated experience.
+More broadly, I'm interested in how brains and artificial systems generate, organize, and act upon their own internal models of the world.
