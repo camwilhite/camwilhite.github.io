@@ -3,7 +3,7 @@ title: "In vivo acoustoelectric imaging for high-resolution visualization of car
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt:
+excerpt: Alexander Alvarez, Chet Preston, Teodoro Trujillo, Cameron Wilhite, Alex Burton, Sonia Vohnout, and Russell S. Witte
 date: 2020-12-11
 venue: 'Applied Optics'
 slidesurl:
