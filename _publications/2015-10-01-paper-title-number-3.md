@@ -7,7 +7,7 @@ excerpt: Alexander Alvarez, Chet Preston, Teodoro Trujillo, Cameron Wilhite, Ale
 date: 2020-12-11
 venue: 'Applied Optics'
 slidesurl:
-paperurl: 'https://opg.optica.org/ao/abstract.cfm?uri=ao-59-36-11292'
+paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC8569939/'
 citation:
 ---
 
