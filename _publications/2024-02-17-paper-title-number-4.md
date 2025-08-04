@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Cameron Wilhite, Loren M. Frank, Massimo Scanziani'
 date: 2024-10-05
-venue: 'SfN 2024'
+venue: 'Society for Neuroscience'
 paperurl: 
 citation: 
 ---
