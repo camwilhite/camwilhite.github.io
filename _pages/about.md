@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Action and thought are deeply intertwined. How does the brain weave them together?
+Action and thought are deeply intertwined. What does this relationship look like at the neural level?
 
-I'm a graduate student in the Scanziani lab at UCSF, where I study how the midbrain superior colliculus (SC) encodes spatial movements during navigation and how this activity is shaped by ongoing cognitive representations of space. My research combines animal behavior, neural recordings, and computational analysis.
+I'm a graduate student in the Scanziani lab at UCSF, where I study how the midbrain superior colliculus (SC) encodes orienting movements during navigation and how this activity is shaped by ongoing cognitive representations of space. My research combines animal behavior, neural recordings, and computational analysis.
 
 Before UCSF, I earned my master's degree at the University of Arizona, where I helped develop new techniques for mapping electrical activity in the brain and heart.
 
