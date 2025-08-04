@@ -1,5 +1,5 @@
 ---
-title: "Engagement of the Superior Colliculus During Overt and Covert Orienting Dynamics"
+title: "Engagement of the superior colliculus during overt and covert orienting dynamics"
 collection: publications
 category: manuscripts
 permalink: /publication/
