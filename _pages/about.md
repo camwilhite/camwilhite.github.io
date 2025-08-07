@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Movement and cognition are deeply intertwined. What does this relationship look like in the brain?
+Action and cognition are deeply intertwined. What does this relationship look like in the brain?
 
-I'm a neuroscience graduate student at UCSF working with Massimo Scanziani, where I study how the midbrain superior colliculus encodes spatial movement during navigation and how this activity is shaped by ongoing cognitive representations of space. My research combines animal behavior, neural recordings, and computational analysis.
+I'm a neuroscience graduate student at UCSF working with Massimo Scanziani, where I study how the midbrain superior colliculus encodes spatial actions during navigation and how this activity is shaped by ongoing cognitive representations of space. My research combines animal behavior, neural recordings, and computational analysis.
 
 Before UCSF, I earned my master's degree at the University of Arizona, where I helped develop new techniques for mapping electrical activity in the brain and heart.
 
