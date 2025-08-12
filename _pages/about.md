@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Movement and thought are deeply intertwined. What does this relationship look like in the brain?
+Movement and thought are deeply intertwined.
+What does this relationship look like in the brain?
 
 I'm a neuroscience graduate student at UCSF working with Massimo Scanziani, where I study how the midbrain superior colliculus encodes spatial movements during navigation and how this activity is shaped by mental simulations of possible future paths. My research combines animal behavior, neural recordings, and computational analysis.
 
