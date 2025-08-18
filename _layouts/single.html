@@ -50,26 +50,34 @@ layout: default
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">
             Recommended citation: {{ page.citation }}<br />
-            <a href="{{ page.paperurl }}" target="_blank">{% if page.category == "conferences" %}Poster{% else %}Paper{% endif %}</a> |
+            <a href="{{ page.paperurl }}" target="_blank">
+              {% if page.category == "conferences" %}{{ "Poster" }}{% else %}{{ "Paper" }}{% endif %}
+            </a> |
             <a href="{{ page.slidesurl }}" target="_blank">Download Slides</a> |
             <a href="{{ page.bibtexurl }}">Download Bibtex</a>
           </p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">
             Recommended citation: {{ page.citation }}<br />
-            <a href="{{ page.paperurl }}" target="_blank">{% if page.category == "conferences" %}Poster{% else %}Paper{% endif %}</a> |
+            <a href="{{ page.paperurl }}" target="_blank">
+              {% if page.category == "conferences" %}{{ "Poster" }}{% else %}{{ "Paper" }}{% endif %}
+            </a> |
             <a href="{{ page.slidesurl }}" target="_blank">Download Slides</a>
           </p>
         {% elsif page.citation and page.paperurl and page.bibtexurl %}
           <p style="font-size: smaller">
             Recommended citation: {{ page.citation }}<br />
-            <a href="{{ page.paperurl }}" target="_blank">{% if page.category == "conferences" %}Poster{% else %}Paper{% endif %}</a> |
+            <a href="{{ page.paperurl }}" target="_blank">
+              {% if page.category == "conferences" %}{{ "Poster" }}{% else %}{{ "Paper" }}{% endif %}
+            </a> |
             <a href="{{ page.bibtexurl }}">Download Bibtex</a>
           </p>
         {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller">
             Recommended citation: {{ page.citation }}<br />
-            <a href="{{ page.paperurl }}" target="_blank">{% if page.category == "conferences" %}Poster{% else %}Paper{% endif %}</a>
+            <a href="{{ page.paperurl }}" target="_blank">
+              {% if page.category == "conferences" %}{{ "Poster" }}{% else %}{{ "Paper" }}{% endif %}
+            </a>
           </p>
         {% elsif page.citation and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">
@@ -89,7 +97,9 @@ layout: default
           </p>
         {% elsif page.paperurl and page.bibtexurl %}
           <p style="font-size: smaller">
-            <a href="{{ page.paperurl }}" target="_blank">{% if page.category == "conferences" %}Poster{% else %}Paper{% endif %}</a> |
+            <a href="{{ page.paperurl }}" target="_blank">
+              {% if page.category == "conferences" %}{{ "Poster" }}{% else %}{{ "Paper" }}{% endif %}
+            </a> |
             <a href="{{ page.bibtexurl }}">Download Bibtex</a>
           </p>
         {% elsif page.citation and page.bibtexurl %}
@@ -110,6 +120,7 @@ layout: default
             <a href="{{ page.bibtexurl }}">Download Bibtex</a>
           </p>
         {% endif %}
+
 
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
