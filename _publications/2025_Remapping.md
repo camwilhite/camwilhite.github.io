@@ -3,7 +3,7 @@ title: "Tecto-corticol control of place field reorganization in the hippocampus"
 collection: publications
 category: manuscripts
 permalink: /publication/2025_Remapping
-excerpt: 'Josh Brenner*, Sarah Ruediger*, Cameron Wilhite*, Yuta Senzai, Massimo Scanziani, Riccardo Beltramo'
+excerpt: 'Josh Brenner\*, Sarah Ruediger\*, Cameron Wilhite\*, Yuta Senzai, Massimo Scanziani, Riccardo Beltramo'
 date: 2025-09-01
 venue: 'In preparation'
 slidesurl:
