@@ -55,7 +55,7 @@
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br />
         <a href="{{ post.paperurl }}" target="_blank">
-          {% if post.category and post.category | downcase == "conferences" %}{{ "Link" }}{% else %}{{ "Link" }}{% endif %}
+          {% if post.category and post.category | downcase == "conferences" %}{{ "pdf" }}{% else %}{{ "pdf" }}{% endif %}
         </a> |
         <a href="{{ post.slidesurl }}">Download Slides</a> |
         <a href="{{ post.bibtexurl }}">Download Bibtex</a>
@@ -63,21 +63,21 @@
     {% elsif post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br />
         <a href="{{ post.paperurl }}" target="_blank">
-          {% if post.category and post.category | downcase == "conferences" %}{{ "Link" }}{% else %}{{ "Link" }}{% endif %}
+          {% if post.category and post.category | downcase == "conferences" %}{{ "pdf" }}{% else %}{{ "pdf" }}{% endif %}
         </a> |
         <a href="{{ post.slidesurl }}">Download Slides</a>
       </p>
     {% elsif post.citation and post.paperurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br />
         <a href="{{ post.paperurl }}" target="_blank">
-          {% if post.category and post.category | downcase == "conferences" %}{{ "Link" }}{% else %}{{ "Link" }}{% endif %}
+          {% if post.category and post.category | downcase == "conferences" %}{{ "pdf" }}{% else %}{{ "pdf" }}{% endif %}
         </a> |
         <a href="{{ post.bibtexurl }}">Download Bibtex</a>
       </p>
     {% elsif post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }}<br />
         <a href="{{ post.paperurl }}" target="_blank">
-          {% if post.category and post.category | downcase == "conferences" %}{{ "Link" }}{% else %}{{ "Link" }}{% endif %}
+          {% if post.category and post.category | downcase == "conferences" %}{{ "pdf" }}{% else %}{{ "pdf" }}{% endif %}
         </a>
       </p>
     {% elsif post.citation and post.slidesurl and post.bibtexurl %}
@@ -98,14 +98,14 @@
     {% elsif post.paperurl and post.bibtexurl %}
       <p>
         <a href="{{ post.paperurl }}" target="_blank">
-          {% if post.category and post.category | downcase == "conferences" %}{{ "Link" }}{% else %}{{ "Link" }}{% endif %}
+          {% if post.category and post.category | downcase == "conferences" %}{{ "pdf" }}{% else %}{{ "pdf" }}{% endif %}
         </a> |
         <a href="{{ post.bibtexurl }}">Download Bibtex</a>
       </p>
     {% elsif post.paperurl %}
       <p>
         <a href="{{ post.paperurl }}" target="_blank">
-          {% if post.category and post.category | downcase == "conferences" %}{{ "Link" }}{% else %}{{ "Link" }}{% endif %}
+          {% if post.category and post.category | downcase == "conferences" %}{{ "pdf" }}{% else %}{{ "pdf" }}{% endif %}
         </a>
       </p>
     {% elsif post.slidesurl and post.bibtexurl %}
