@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025_SC_HPC_lake
 excerpt: 'Cameron Wilhite, Loren M. Frank, Massimo Scanziani'
 date: 2025-10-05
-venue: 'Lake conference - neural coding and dynamics'
+venue: 'Lake Conference - Neural Coding and Dynamics'
 paperurl: /files/LAKE_2025_wilhite.pdf
 citation: 
 ---
