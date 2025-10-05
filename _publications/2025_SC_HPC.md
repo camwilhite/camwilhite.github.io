@@ -1,5 +1,5 @@
 ---
-title: "Collicular turn cell activity is coordinated with locomotor dynamics and hippocampal representations of future paths"
+title: "Superior colliculus turn cell activity is coordinated with locomotor dynamics and hippocampal representations of future paths"
 collection: publications
 category: manuscripts
 permalink: /publication/2025_SC_HPC
