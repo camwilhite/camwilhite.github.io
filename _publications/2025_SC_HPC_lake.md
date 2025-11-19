@@ -1,12 +1,12 @@
 ---
-title: "Superior colliculus turn cell activity is coordinated with locomotor dynamics and hippocampal representations of future paths"
+title: "Directional alignment of turn-related activity in the superior colliculus with locomotor dynamics and hippocampal representations of future paths"
 collection: publications
 category: conferences
 permalink: /publication/2025_SC_HPC_lake
 excerpt: 'Cameron Wilhite, Loren M. Frank, Massimo Scanziani'
 date: 2025-10-05
-venue: 'Lake Conference - Neural Coding and Dynamics'
-paperurl: /files/LAKE_2025_wilhite.pdf
+venue: 'Lake Conference - Neural Coding and Dynamics/Society for Neuroscience Meeting'
+paperurl: /files/SFN_2025_wilhite.pdf
 citation: 
 ---
 
