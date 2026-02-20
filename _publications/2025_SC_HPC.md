@@ -1,8 +1,8 @@
 ---
-title: "Directional alignment of turn-related activity in the superior colliculus with locomotor dynamics and hippocampal representations of future paths"
+title: "Directional alignment of turn-related activity with locomotor dynamics in the superior colliculus"
 collection: publications
 category: manuscripts
-permalink: /publication/2025_SC_HPC
+permalink: /publication/2025_SC
 excerpt: 'Cameron Wilhite, Loren M. Frank, Massimo Scanziani'
 date: 2025-10-01
 venue: 'In preparation'
@@ -11,4 +11,4 @@ paperurl:
 citation:
 ---
 
-Working abstract: The ability to direct locomotion by turning left or right is a core element of animal navigation. Such turns occur in precise coordination with the ongoing stepping rhythm and require internal planning for the animal’s potential future path. The superior colliculus (SC) is a conserved vertebrate midbrain structure involved in turning. Whether neuronal activity in the SC is coordinated with both rhythmic locomotor dynamics and internal representations of future paths is unknown. Here we recorded from SC neurons as mice navigated a Y-maze while tracking locomotor dynamics and decoding internal representations of future paths from hippocampal place cell activity. Neurons in the intermediate and deep layers of the SC fired more as the animal turned in one or the other direction at the maze bifurcation (left or right ‘turn cells’). Interestingly, turn cell activity was tightly coupled to the ongoing left-right head-body oscillation associated with the animal’s stepping rhythm such that left and right turn cells fired at opposite phases of the head-body oscillation. Turn cell activity was also modulated in coordination with hippocampal representations of future paths. For example, right turn cells fired more during right turns following hippocampal representations of rightward paths compared to leftward paths. Thus, during navigation, turn-selective activity in the intermediate and deep SC is coordinated with rhythmic locomotor dynamics and internal representations of future paths. This coordination may allow animals to seamlessly execute turns during locomotion while navigating toward behaviorally-relevant goals.
+Working abstract: Fluid behavior requires temporal coordination across brain systems that orchestrate movement. A clear example is locomotion, in which left and right turns are not only precisely coordinated with the ongoing stepping rhythm but occur at opposite phases of the step cycle. The circuits underlying this coordination remain poorly understood. We discover that neuronal activity in the mouse superior colliculus, a conserved midbrain structure involved in turning behavior, is tightly phase-locked to the stepping rhythm. Notably, neurons selective for left and right turns fire at opposite phases of the stepping cycle. Moreover, this phase opposition is already evident during straight locomotion, before the animal initiates a turn. By aligning the activity of left and right turn neurons to opposite phases of the stepping cycle, the superior colliculus may create alternating windows of opportunity for left and right turns, facilitating the seamless execution of turns during locomotion.
