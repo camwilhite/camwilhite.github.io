@@ -1,10 +1,10 @@
 ---
-title: "Tecto-corticol control of place field reorganization in the hippocampus"
+title: "Vision shapes hippocampal spatial maps through the superior colliculus"
 collection: publications
 category: manuscripts
 permalink: /publication/2025_Remapping
 excerpt: 'Josh Brenner\*, Sarah Ruediger\*, Cameron Wilhite\*, Yuta Senzai, Massimo Scanziani, Riccardo Beltramo'
-date: 2025-09-01
+date: 2026-01-01
 venue: 'In preparation'
 slidesurl:
 paperurl:
