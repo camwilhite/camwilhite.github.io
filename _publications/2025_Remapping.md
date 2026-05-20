@@ -1,5 +1,5 @@
 ---
-title: "Vision shapes hippocampal spatial maps through the superior colliculus"
+title: "Vision shapes neural maps of space through an ancient midbrain pathway"
 collection: publications
 category: manuscripts
 permalink: /publication/2025_Remapping
