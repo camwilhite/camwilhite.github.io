@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2025_Remapping
 excerpt: 'Josh Brenner\*, Sarah Ruediger\*, Cameron Wilhite\*, Yuta Senzai, Massimo Scanziani, Riccardo Beltramo'
 date: 2026-01-01
-venue: 'In preparation'
+venue: bioRxiv
 slidesurl:
-paperurl:
+paperurl: /files/Remapping_preprint_2026.pdf
 citation:
 ---
 
