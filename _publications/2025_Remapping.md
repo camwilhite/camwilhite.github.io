@@ -7,7 +7,7 @@ excerpt: 'Josh Brenner\*, Sarah Ruediger\*, Cameron Wilhite\*, Yuta Senzai, Mass
 date: 2026-01-01
 venue: bioRxiv
 slidesurl:
-paperurl: /files/Remapping_preprint_2026.pdf
+paperurl: /files/Brenner_bioRxiv_2026.pdf
 citation:
 ---
 
