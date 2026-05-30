@@ -10,12 +10,12 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "CV"
-    url: /files/CV_2026_Wilhite_final.pdf
 
   - title: "Blog"
     url: /blog/
+
+  - title: "CV"
+    url: /files/CV_2026_Wilhite_final.pdf
     
   # - title: "CV"
   #   url: /cv-json/
