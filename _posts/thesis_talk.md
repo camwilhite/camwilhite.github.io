@@ -14,5 +14,3 @@ PhD Thesis Talk, 5/8/2026, San Fransisco, CA
   src="https://www.youtube.com/embed/IsdwaQ1-ago"
   frameborder="0" allowfullscreen></iframe>
 </div>
-
-Watch it on YouTube [here](https://www.youtube.com/watch?v=IsdwaQ1-ago).
