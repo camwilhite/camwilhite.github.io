@@ -7,7 +7,7 @@ excerpt: 'Cameron Wilhite, Loren M. Frank, Massimo Scanziani'
 date: 2026-02-05
 venue: bioRxiv
 slidesurl:
-paperurl:
+paperurl: /files/Wilhite_Frank_Scanziani_061226.pdf
 citation:
 ---
 
