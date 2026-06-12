@@ -2,10 +2,10 @@
 title: "Coordination of turn-related activity in the superior colliculus with locomotor dynamics and hippocampal representations of possible futures"
 collection: publications
 category: manuscripts
-permalink: /publication/2026_HPC
+permalink: /publication/2026_SC_HPC
 excerpt: 'Cameron Wilhite, Loren M. Frank, Massimo Scanziani'
 date: 2026-02-05
-venue: 'In preparation'
+venue: bioRxiv
 slidesurl:
 paperurl:
 citation:
