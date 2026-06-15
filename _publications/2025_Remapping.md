@@ -3,7 +3,7 @@ title: "Vision shapes neural maps of space through an ancient midbrain pathway"
 collection: publications
 category: manuscripts
 permalink: /publication/2025_Remapping
-excerpt: 'Josh Brenner\*, Sarah Ruediger\*, Cameron Wilhite\*, Yuta Senzai, Massimo Scanziani, Riccardo Beltramo'
+excerpt: 'Josh M. Brenner\*, Sarah Ruediger\*, Cameron Wilhite\*, Josue M. Regalado, Yuta Senzai, Yuliya Voskobiynyk, Jeanne T. Paz, Massimo Scanziani, Riccardo Beltramo'
 date: 2026-01-01
 venue: bioRxiv
 slidesurl:
