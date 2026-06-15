@@ -5,7 +5,7 @@ permalink: /posts/2026/05/Thesis_Talk/
 tags:
 ---
 
-PhD Thesis Talk, May 8, 2026, San Fransisco, CA
+PhD Thesis Seminar, May 8, 2026, San Fransisco, CA
 
 <!--more-->
 
