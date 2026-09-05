@@ -1,14 +1,14 @@
 ---
-title: "Coordination of turn-related activity in the superior colliculus with locomotor dynamics and hippocampal representations of possible futures"
+title: "Hippocampal representations of possible futures predict motor output in the superior colliculus"
 collection: publications
 category: manuscripts
 permalink: /publication/2026_SC_HPC
 excerpt: 'Cameron Wilhite, Loren M. Frank, Massimo Scanziani'
-date: 2026-02-05
+date: 2026-09-05
 venue: bioRxiv
 slidesurl:
-paperurl: /files/Wilhite_Frank_Scanziani_061226.pdf
+paperurl: /files/Wilhite_Frank_Scanziani_sweeps_082826_final.pdf
 citation:
 ---
 
-Turning left or right is a core element of animal navigation. Such turns occur in precise coordination with the ongoing stepping rhythm and require internal planning for the animal's future path. The superior colliculus (SC) is a midbrain structure involved in turning. Whether turn-related activity in the SC is coordinated with stepping and internal representations of future paths is unknown. Here, while recording from left- or right-preferring “turn cells” in the motor layers of the SC as mice navigated a Y-maze, we monitored locomotor dynamics and decoded internal representations of future paths from the hippocampus. We discovered that turn cell activity was tightly phase-locked to the stepping rhythm and modulated in coordination with hippocampal representations of future paths. The coordination of turn-related activity in the SC with stepping and internal representations of future paths may allow animals to seamlessly execute turns during locomotion while navigating toward planned destinations.
+The ability to represent possible futures allows animals to evaluate different options and act accordingly. The hippocampus can express representations of possible future paths, but the brain structures involved in transforming these representations into actions remain unknown. Here we show that hippocampal representations of possible future paths predict motor-related activity in the superior colliculus (SC), a midbrain structure involved in turning. By recording simultaneously from hippocampal neurons and from left- or right-preferring “turn cells” in the motor layers of the SC in navigating mice, we found that hippocampal representations of possible left or right future paths predicted increased firing rates of SC turn cells with matching left or right turn preference. This relationship was also evident in the animals’ behavior: when the hippocampus represented future paths that were not ultimately taken, movement trajectories were nonetheless biased toward those paths, as if animals partially enacted possible futures that were represented but not selected. These results reveal a coordination between a cognitive and a motor structure and provide a potential pathway for mental simulations of possible futures to influence actions.
